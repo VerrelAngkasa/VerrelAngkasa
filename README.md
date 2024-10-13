@@ -3,7 +3,7 @@
 Get to know me:
 --
 - 🔭 I’m currently a third-year student at Universitas Pelita Harapan Medan
-- 🌱 I’m currently learning Information Systems, focusing on Cloud Computing and Web Development
+- 🌱 I’m currently majoring Information Systems, Cloud Computing and Web Development enthusiast
 - ⚡ Fun fact: Like to Read, Study, Learn & Play Games
 
 <p align="left">
