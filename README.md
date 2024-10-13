@@ -12,7 +12,7 @@ Several basic project that I did in university are related to Object Oriented Pr
 
 Aside from the university projects, I built 2 (two) website by my own:
 <ul>
-  <li>Foodie Addict: Food Dictionary for Indonesia's food</li>
+  <li>Foodie Addict: Informations about Indonesia's most popular culinary</li>
   <li>HMPSSI Website: Information page for Himpunan Mahasiswa Program Studi Sistem Informasi UPH Medan Campus</li>
 </ul>
 
