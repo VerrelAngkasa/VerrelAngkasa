@@ -2,7 +2,7 @@
 
 Get to know me:
 --
-- 🔭 I’m a Information Systems' graduate at Universitas Pelita Harapan Medan Campus.
+- 🔭 I’m a Information Systems' graduates at Universitas Pelita Harapan Medan Campus.
 - 🌱 I’m currently a DevSecOps Engineer in a healthcare industry.
 - ⚡ Fun fact: I love to read, and experience new things.
 
