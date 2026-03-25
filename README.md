@@ -2,9 +2,9 @@
 
 Get to know me:
 --
-- 🔭 I’m currently a third-year student at Universitas Pelita Harapan Medan
-- 🌱 I’m currently majoring Information Systems, Cloud Computing and Web Development enthusiast
-- ⚡ Fun fact: I like to read books, study, and learn new things.
+- 🔭 I’m a Information Systems' graduate at Universitas Pelita Harapan Medan Campus.
+- 🌱 I’m currently a DevSecOps Engineer in a healthcare industry.
+- ⚡ Fun fact: I love to read, and experience new things.
 
 Projects
 --
